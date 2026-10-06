@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- Name: [Enter your full name]
-- Student ID: [Enter your student ID]
+- Name: Ayodele Banjo
+- Student ID: C11/26/FCDF/17169
 - Institution: International Cybersecurity and Digital Forensics Academy
 - Date: 6 October 2026
 
